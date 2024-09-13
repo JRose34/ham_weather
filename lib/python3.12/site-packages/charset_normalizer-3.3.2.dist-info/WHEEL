@@ -1,0 +1,8 @@
+Wheel-Version: 1.0
+Generator: bdist_wheel (0.41.2)
+Root-Is-Purelib: false
+Tag: cp312-cp312-manylinux_2_5_i686
+Tag: cp312-cp312-manylinux1_i686
+Tag: cp312-cp312-manylinux_2_17_i686
+Tag: cp312-cp312-manylinux2014_i686
+
